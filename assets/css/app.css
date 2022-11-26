@@ -63,6 +63,10 @@ body {
   letter-spacing: 12px;
 }
 
+.text-uppercase{
+  text-transform: uppercase;
+}
+
 .lspc-4 {
   letter-spacing: 4px;
   text-transform: uppercase;
