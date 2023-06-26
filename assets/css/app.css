@@ -288,4 +288,8 @@ body {
   border-top-right-radius: 5px;
 }
 
+.all__capital {
+  text-transform: uppercase;
+}
+
     
