@@ -196,7 +196,7 @@ body {
 
 ::-webkit-scrollbar-thumb
 {
-   background: linear-gradient(-40deg, #ee7752, #e73c7e, #23a6d5, #23d5ab) top
+   background: linear-gradient(-40deg, #ee7752, #da4d83, #23a6d5, #34d8b1) top
      center / cover no-repeat;
     animation: gradient 15s ease infinite;
     
