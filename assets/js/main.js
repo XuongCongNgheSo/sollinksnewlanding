@@ -13,6 +13,6 @@ loaderCpn.style.animation = "loadingCpn ease 0s"
 window.addEventListener("load", function(){
   this.setTimeout(function(){
     loaderCpn.style.display = "none"
-    loaderCpn.style.animation = "loadedCpn ease 2s"
+    loaderCpn.style.animation = "loadedCpn ease 1s"
   }, 2500)
 })
